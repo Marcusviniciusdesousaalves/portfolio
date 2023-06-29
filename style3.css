@@ -1,0 +1,17 @@
+body{
+    background-color:#16161d;
+    margin-top: 0;
+}
+.container{
+text-align: center;
+}
+*{
+    color:#2ecc71;
+    font-family: "Poppins",sans-serif;
+    font-weight: bold;
+}
+img{
+    width: 400px;
+    height: 300px;
+    padding-top: 300px;
+}
